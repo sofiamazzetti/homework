@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #d4af37; /* colore oro */
+    padding: 20px;
+    text-align: center;
+}
+
+.paragrafo1 {
+    background-color: #f5e6c8;
+    padding: 15px;
+}
+
+.paragrafo2 {
+    background-color: #e0f0ff;
+    padding: 15px;
+}
+
+blockquote {
+    color: darkred;
+    font-style: italic;
+    margin: 20px;
+}
+
+.immagine {
+    border: 3px solid black;
+    margin: 20px;
+}
